@@ -1,6 +1,7 @@
 # koinX-assignment
 
 Trade Parsing and Balance Calculator
+
 Here I have developed a server side application using Node.js and MongoDB in which i have accomplished two tasks.
 
 Task 1 : Implemented an API that accepts a CSV file as the input, parses the data present in it
